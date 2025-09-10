@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  background-color: #222;
+}
+
+canvas {
+  display: block;
+  margin: auto;
+  background: url('forest-bg.jpg') repeat-x;
+  background-size: cover;
+}
